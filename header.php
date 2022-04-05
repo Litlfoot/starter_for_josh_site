@@ -13,11 +13,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Yeseva+One&display=swap"
         rel="stylesheet">
 
+        <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="responsive.css" />
 
-
-    
-    <title>
-<?php
+    <title><?php
         if (function_exists('is_tag') && is_tag()) {
            single_tag_title("Tag Archive for &quot;"); echo '&quot; - '; }
         elseif (is_archive()) {
@@ -76,8 +75,7 @@
             <div class="tag">
                 <h1>Games Design for the future</h1>
             </div>
-        </div> <!-- container -->
-        <?php wp_head(); ?>
+        </div> <!-- container --><?php wp_head(); ?>
         <!-- very important that this is added-->
     </header>
 
