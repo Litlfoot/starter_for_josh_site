@@ -19,7 +19,7 @@
             <h3 class="text-center">LATEST ARTICLES</h3>
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img-fluid" src="images/port1.jpg" alt="woman">
+                    <img class="img-fluid" src="http://206.189.45.97/~mesh17/ wp-content/themes/starter_for_josh_site/images/port1.jpg" alt="woman">
                     <h4 class="article-title">A PORTRAIT</h4>
                     <p class="date">12 December 2020</p>
                     <p class="article-p">STS has never been shy of seeking new terrains of investigation. More
@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="col-md-4">
-                    <img class="img-fluid" src="images/port2.jpg" alt="woman">
+                    <img class="img-fluid" src="http://206.189.45.97/~mesh17/ wp-content/themes/starter_for_josh_site/images/port2.jpg " alt="woman">
                     <h4 class="article-title">A PORTRAIT</h4>
                     <p class="date">12 December 2020</p>
                     <p class="article-p">STS has never been shy of seeking new terrains of investigation. More
@@ -50,7 +50,7 @@
                 </div>
 
                 <div class="col-md-4">
-                    <img class="img-fluid" src="images/port3.jpg" alt="woman">
+                    <img class="img-fluid" src="http://206.189.45.97/~mesh17/ wp-content/themes/starter_for_josh_site/images/port3.jpg " alt="woman">
                     <h4 class="article-title">A PORTRAIT</h4>
                     <p class="date">12 December 2020</p>
                     <p class="article-p">STS has never been shy of seeking new terrains of investigation. More
