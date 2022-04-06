@@ -27,8 +27,6 @@
                 <p class="article-p"><?php the_field('articleexcerptmid'); ?></p>
                 <a href="<?php the_field('readmoremid'); ?>" class="readmore">CONTINUE READING</a>
                 </div>
-                </div>
-
                 <div class="col-md-4">
                 <img class="img-fluid" alt="greenmap"src="<?php the_field('articleimageend');?>">
                 <h4 class="article-title"><?php the_field('articletitleend'); ?></h4>
