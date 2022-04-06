@@ -33,10 +33,10 @@
                 <img class="img-fluid" alt="greenmap"src="<?php the_field('articleimageend');?>">
                 <h4 class="article-title"><?php the_field('articletitleend'); ?></h4>
                 <p class="date"><?php the_field('articledateend'); ?></p>
-                <p class="article-p"><?php the_field('articleexcerptend'); ?></p>
+                <p class="article-p"><?php the_field('articleexcerptend');?></p>
                 <a href="<?php the_field('readmoreend'); ?>" class="readmore">CONTINUE READING</a>
-                </div>
-                </div>
+</div>
+</div>
 
             </div> <!-- row -->
 
