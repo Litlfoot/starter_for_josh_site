@@ -103,7 +103,7 @@ Version: 1
     color: black;
     padding-top: 20px;
     margin-bottom: 0px;
-    text-align: left; 
+    text-align: left;
 
 }
 
@@ -143,14 +143,28 @@ footer p {
     font-weight: bold;
     padding: 5%;
 }
-.smallpage-bg1 {
+
+.small_herobg {
     width: 100%;
-background: url("images/page_header_bg.jpg") no-repeat center center;
-background-size: cover;/*make the background image cover the whole div proportionally*/
-height: 40vh; /*Viewport Height (vh) — This unit is based on the height of the viewport. A value of 1vh is equal to 1% of the viewport height. */
+    background: url("images/small_header_bg.jpg ") no-repeat center center;
+    background-size: cover;
+    /*make the background image cover the whole div proportionally*/
+    height: 40vh;
+    /*Viewport Height (vh) — This unit is based on the height of the viewport. A value of 1vh is equal to 1% of the viewport height. */
 
 }
-.smallpage-title{ 
+
+.smallpage-bg1 {
+    width: 100%;
+    background: url("images/page_header_bg.jpg") no-repeat center center;
+    background-size: cover;
+    /*make the background image cover the whole div proportionally*/
+    height: 40vh;
+    /*Viewport Height (vh) — This unit is based on the height of the viewport. A value of 1vh is equal to 1% of the viewport height. */
+
+}
+
+.smallpage-title {
     font-size: 4em;
     color: white;
     font-weight: 800;
