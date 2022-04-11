@@ -1,5 +1,4 @@
-<?php get_header();?>   <!--  Tells WordPress to include header.php -->
-    <Section class="container-fluid aboutbg text-center">
+<?php get_header();?>   <!--  Tells WordPress to include header.php --><Section class="container-fluid aboutbg text-center">
         <div class="container">
             <h2>GAMES &amp; LEVEL DESIGNER </h2>
             <P class="particle">...and particle wizard</P>
