@@ -2,7 +2,7 @@
     /*
     Template Name: Home page
     */
-    ?><?php get_header();?>   <!--  Tells WordPress to include header.php -->
+    ?><?php get_header();?><!--  Tells WordPress to include header.php -->
     <Section class="container-fluid aboutbg text-center">
         <div class="container"><h2><?php the_field('titleforaboutme'); ?></h2><!--  custom field for the aboutme content--><p class="particle"><?php the_field('subtitleforaboutme'); ?></p>
 <p class="about-text"><?php the_field('paragraphforaboutme'); ?></p><div class="blocker"></div>
