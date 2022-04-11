@@ -37,8 +37,7 @@
 
 <body>
 
-    <header class="container-fluid smallpage-bg1">
-        <div class="container">
+<header class="container-fluid" style="background-size:cover; height:40vh; background-image: url(<?php the_field('projectheaderbackgroundimage') ?>);"><div class="container">
 
 
             <nav class="navbar navbar-expand-md navbar-dark">
