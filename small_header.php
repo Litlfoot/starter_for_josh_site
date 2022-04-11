@@ -68,10 +68,7 @@
                         </li>
                     </ul>
                 </div>
-            </nav>
-
-
-            <div class="tag"><!-- div that holds the content in the middle of the page-->
+            </nav><div class="tag"><!-- div that holds the content in the middle of the page-->
                   <!--<h1 > Games Design For the Future </h1>  the main tag line-->
               </div><!-- container--><?php wp_head(); ?>
         <!-- very important that this is added-->
